@@ -1,0 +1,13 @@
+Open hrtest.alycedev.com
+Check favicon
+Check title
+Close hrtest.alycedev.com
+Check the buttons "Grab apple"
+Check the button "Free apples"
+Manual testing "Business logic rule 1" 
+Manual testing "Business logic rule 2"
+Run autotest "Business logic rule 1" in firefox webdriver
+Run autotest "Business logic rule 2" in chrome webdriver
+Check notification when basket is empty
+Сheck saves user data on restart
+Check web design adapts to the size of the screen
